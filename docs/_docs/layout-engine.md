@@ -38,7 +38,7 @@ override func layoutSpecThatFits(constrainedSize: ASSizeRange) {
 </div>
 </div>
 
-Whle this example is extremely simple, it gives you an idea of how to use a layout spec.  A stack layout spec, for instance, defines a layout of nodes in which the chlidren will be laid out adjacently, in the direction specified, with the spacing specified.  It is very similar to `UIStackView` but with the added benefit of backwards compatibility.
+While this example is extremely simple, it gives you an idea of how to use a layout spec.  A stack layout spec, for instance, defines a layout of nodes in which the chlidren will be laid out adjacently, in the direction specified, with the spacing specified.  It is very similar to `UIStackView` but with the added benefit of backwards compatibility.
 
 ### ASLayoutable
 
